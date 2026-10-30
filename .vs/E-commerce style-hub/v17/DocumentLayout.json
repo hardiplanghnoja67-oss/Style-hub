@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|d:\\e-commerce style-hubbbb\\e-commerce style-hub\\e-commerce style-hub\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|d:\\e-commerce style-hubbbb\\e-commerce style-hub\\e-commerce style-hub\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|d:\\e-commerce style-hubbbb\\e-commerce style-hub\\e-commerce style-hub\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\addcategory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|d:\\e-commerce style-hubbbb\\e-commerce style-hub\\e-commerce style-hub\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\shop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\shop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|D:\\E-commerce style-hubbbb\\E-commerce style-hub\\e-commerce style-hub\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4F6A7A1-9F74-4F7D-8EFF-1565987FBC49}|E-commerce style-hub\\E-commerce style-hub.csproj|solutionrelative:e-commerce style-hub\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "about.aspx.cs",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\about.aspx.cs",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\about.aspx.cs",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\about.aspx.cs",
+              "RelativeToolTip": "E-commerce style-hub\\about.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T09:17:36.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "about.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\about.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\about.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\about.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-30T09:17:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCategory.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AddCategory.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\AddCategory.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AddCategory.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\AddCategory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-30T09:17:35.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "E-commerce style-hub\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T04:51:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\AdminLogin.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminLogin.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T04:47:21.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\AdminDashboard.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-13T04:47:20.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\login.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\login.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\login.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-07T14:34:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\home.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\home.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\home.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-04T04:34:37.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\ProductDetails.aspx.cs",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "E-commerce style-hub\\ProductDetails.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T14:02:19.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shop.aspx",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\shop.aspx",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\shop.aspx",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\shop.aspx",
+              "RelativeToolTip": "E-commerce style-hub\\shop.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-07T13:41:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "shop.aspx.cs",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\shop.aspx.cs",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\shop.aspx.cs",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\shop.aspx.cs",
+              "RelativeToolTip": "E-commerce style-hub\\shop.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T13:59:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.aspx.designer.cs",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\AdminDashboard.aspx.designer.cs",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\AdminDashboard.aspx.designer.cs",
+              "RelativeToolTip": "E-commerce style-hub\\AdminDashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T04:51:31.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\Web.config",
+              "RelativeDocumentMoniker": "E-commerce style-hub\\Web.config",
+              "ToolTip": "D:\\E-commerce style-hubbbb\\E-commerce style-hub\\E-commerce style-hub\\Web.config",
+              "RelativeToolTip": "E-commerce style-hub\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-07T14:27:42.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
